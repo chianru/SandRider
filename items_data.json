@@ -1,0 +1,52 @@
+{
+    "corpse":{
+        "max_num":5,
+        "spawn_time":5000,
+        "life_time":20000,
+        "set_color_key":[0, 0, 0],
+        "image":"corpse.png"
+    },
+    "harvestor":{
+        "max_num":1,
+        "spawn_time":10000,
+        "life_time":30000,
+        "set_color_key":[0, 0, 0],
+        "image":"harvestor.png"
+    },
+    "thumper":{
+        "max_num":null,
+        "spawn_time":30000,
+        "life_time":60000,
+        "set_color_key":[255, 255, 255],
+        "image":"thumper.png"
+    },
+    "water":{
+        "max_num":null,
+        "spawn_time":30000,
+        "life_time":60000,
+        "set_color_key":[0, 0, 0],
+        "image":"water.png"
+    },
+    "baron":{
+        "max_num":null,
+        "spawn_time":45000,
+        "life_time":null,
+        "set_color_key":[0, 0, 0],
+        "image":"Baron.png"
+    },
+    "mother":{
+        "max_num":null,
+        "spawn_time":45000,
+        "life_time":null,
+        "set_color_key":[0, 0, 0],
+        "image":"mother.png"
+    },
+    "muaddib":{
+        "max_num":1,
+        "spawn_time":60000,
+        "life_time":60000,
+        "set_color_key":[0, 0, 0],
+        "generate_probi":0.3,
+        "image":"muaddib.png"
+    }
+}
